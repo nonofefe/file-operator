@@ -34,7 +34,7 @@ vector<string> split(const string &s, char delim) {
 
 int main()
 {
-  string filename("poke_data.txt");
+  string filename("datasets/input/poke_general.txt");
   vector<string> lines;
   string line;
 
@@ -45,24 +45,28 @@ int main()
     return EXIT_FAILURE;
   }
 
-  //vector<vector<string>> vec(493,vector<ll>(11,""));
+  int MAX = 493;
+
+  vector<vector<string>> vec(MAX,vector<string>(1,""));
+  int ind = 0;
 
   while (getline(input_file, line)){
+    if(ind == MAX){
+      break;
+    }
     ull len = line.size();
-    ull n = 15;
-    vector<string> vec(1,"");
     int cnt = 0;
     bool status = 0;
     for(int i = 0; i< len;i++){
       if(status == 0){
         if(line[i] == '<'){
-          if(vec[cnt] != ""){
-            vec.push_back("");
+          if(vec[ind][cnt] != ""){
+            vec[ind].push_back("");
             cnt++;
           }
           status = 1;
         }else{
-          vec[cnt] += line[i];
+          vec[ind][cnt] += line[i];
         }
       }else{
         if(line[i] == '>'){
@@ -70,36 +74,58 @@ int main()
         }
       }
     }
-    if(vec[10] != ""){
+    if(vec[ind][10] != ""){
       for(int i = 0; i < 10;i++){
-        vec[i] = vec[i+1];
+        vec[ind][i] = vec[ind][i+1];
       }
       cnt--;
     }
-    vec[10] = "-";
+    vec[ind][10] = "-";
 
-    vector arr = split(vec[9],'/');
+    vector arr = split(vec[ind][9],'/');
     ull len_arr = arr.size();
     for(int i = 0;i < len_arr;i++){
-      vec[9+i] = arr[i];
+      vec[ind][9+i] = arr[i];
     }
     cout << endl;
-
-    // cout << cnt << endl;
     for(int i = 0; i < 11;i++){
-      cout << vec[i] << " ";
+      cout << vec[ind][i] << " ";
     }
     cout << endl;
-
-
-
-
-    lines.push_back(vec[1]);
+    ind++;
   }
 
-  for (const auto &i : lines)
-    // cout << i << endl;
+  cout << vec[492][1] << endl;
+  sort(all(vec),[](const vector<string>& x, const vector<string>& y) { return stoi(x[0]) < stoi(y[0]);});
+  // rep(i,MAX){
+  //   rep(j,11){
+  //     cout << vec[i][j] << " ";
+  //   }
+  //   cout << endl;
+  // }
+
+  rep(i,MAX){
+    rep(j,11){
+      cout << vec[i][j] << " ";
+    }
+    cout << endl;
+  }
 
   input_file.close();
+
+
+
+
+  ofstream outputfile("datasets/generate/poke_general.txt");
+
+
+  rep(i,MAX) {
+    rep(j,11) {
+      outputfile << vec[i][j] << " ";
+    }
+    outputfile<<"\n";
+  }
+  outputfile.close();
+
   return EXIT_SUCCESS;
 }
