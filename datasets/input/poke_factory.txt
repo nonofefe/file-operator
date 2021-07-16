@@ -1,192 +1,1152 @@
-アーマルド	いじっぱりAB	いのちのたま	ストーンエッジ・シザークロス・じしん・クロスポイズン
-アブソル	いじっぱりAS	こだわりハチマキ	つじぎり・ばかぢから・ギガインパクト・しねんのずつき
-ウインディ	いじっぱりAS	きあいのハチマキ	フレアドライブ・しんそく・かみくだく・かみなりのキバ
-ウツボット	ひかえめHC	きあいのハチマキ	ソーラービーム・ヘドロばくだん・しぼりとる・にほんばれ
-エアームド	いじっぱりAB	いのちのたま	ブレイブバード・はがねのつばさ・シザークロス・いわなだれ
-エーフィ	ひかえめCS	ものしりメガネ	サイコキネシス・シャドーボール・シグナルビーム・あさのひざし
-エテボース	いじっぱりAS	いのちのたま	ダブルアタック・ほのおのパンチ・かみなりパンチ・れいとうパンチ
-エルレイド	いじっぱりAD	ピントレンズ	サイコカッター・インファイト・リーフブレード・つじぎり
-エレキブル	いじっぱりAS	シュカのみ	かみなりパンチ・ほのおのパンチ・れいとうパンチ・じしん
-エンテイ	ようきAS	シュカのみ	ほのおのキバ・おんがえし・ほえる・リフレクター
-エンテイ	ようきAS	おうじゃのしるし	ほのおのキバ・かみつく・アイアンヘッド・ストーンエッジ
-エンテイ	ひかえめCS	シュカのみ	だいもんじ・ソーラービーム・はかいこうせん・にほんばれ
-エンテイ	ひかえめCS	シュカのみ	オーバーヒート・じんつうりき・シャドーボール・めいそう
-エンペルト	ゆうかんAC	せんせいのツメ	ハイドロカノン・ラスターカノン・ドリルくちばし・じしん
-オーダイル	いじっぱりAB	ラムのみ	たきのぼり・じしん・こおりのキバ・りゅうのまい
-オニゴーリ	ひかえめHC	のんきのおこう	ふぶき・あくのはどう・ぜったいれいど・あられ
-カイリキー	いじっぱりHA	せんせいのツメ	クロスチョップ・じしん・かみなりパンチ・ほのおのパンチ
-カイリュー	いじっぱりAD	こだわりハチマキ	げきりん・ギガインパクト・じしん・ばかぢから
-カイロス	いじっぱりAB	ピントレンズ	シザークロス・じしん・インファイト・ハサミギロチン
-カバルドン	いじっぱりHA	せんせいのツメ	じしん・ストーンエッジ・かみくだく・かみなりのキバ
-カビゴン	いじっぱりHA	いのちのたま	すてみタックル・じしん・しねんのずつき・かみくだく
-ガブリアス	いじっぱりAS	キーのみ	げきりん・じしん・かみくだく・ほのおのキバ
-カメックス	ひかえめHC	かいがらのすず	ハイドロカノン・れいとうビーム・はかいこうせん・きあいだま
-ガラガラ	いじっぱりAB	ふといホネ	じしん・ストーンエッジ・アイアンヘッド・かみなりパンチ
-ガルーラ	いじっぱりHA	ちからのハチマキ	ギガインパクト・じしん・かみくだく・げきりん
-キノガッサ	いじっぱりAB	かいがらのすず	きあいパンチ・タネばくだん・ギガインパクト・キノコのほうし
-ギャラドス	いじっぱりAS	カゴのみ	たきのぼり・じしん・ねむる・りゅうのまい
-ギャロップ	ようきAS	カゴのみ	フレアドライブ・メガホーン・すてみタックル・さいみんじゅつ
-キュウコン	ひかえめCS	イトケのみ	かえんほうしゃ・じんつうりき・エナジーボール・めいそう
-キングドラ	ひかえめHC	こうかくレンズ	ハイドロポンプ・りゅうせいぐん・ふぶき・シグナルビーム
-グライオン	いじっぱりAB	たつじんのおび	じしん・つばめがえし・シザークロス・ストーンエッジ
-グランブル	いじっぱりHA	いのちのたま	ギガインパクト・インファイト・じしん・ストーンエッジ
-グレイシア	ひかえめBC	ものしりメガネ	れいとうビーム・シャドーボール・シグナルビーム・みずのはどう
-クレセリア	ずぶといBD	あついいわ	サイコキネシス・ソーラービーム・つきのひかり・にほんばれ
-クレセリア	ずぶといHBD	ラムのみ	サイコキネシス・どくどく・かげぶんしん・つきのひかり
-クレセリア	ひかえめHC	ものしりメガネ	サイコキネシス・シャドーボール・エナジーボール・チャージビーム
-クレセリア	ひかえめHBD	たべのこし	サイコキネシス・れいとうビーム・シグナルビーム・つきのひかり
-クロバット	いじっぱりAS	するどいツメ	クロスポイズン・ブレイブバード・シザークロス・しねんのずつき
-ケッキング	いじっぱりHA	ちからのハチマキ	ギガインパクト・じしん・アームハンマー・シャドークロー
-ゲンガー	ひかえめCS	ラムのみ	シャドーボール・ヘドロばくだん・10まんボルト・みちづれ
-ケンタロス	いじっぱりAS	こだわりハチマキ	おんがえし・じしん・ストーンエッジ・しねんのずつき
-ゴウカザル	ようきAS	おうじゃのしるし	フレアドライブ・インファイト・じしん・かみなりパンチ
-ゴルダック	ひかえめHC	ソクノのみ	ハイドロポンプ・サイコキネシス・れいとうビーム・シグナルビーム
-ゴローニャ	ゆうかんAB	せんせいのツメ	じしん・ストーンエッジ・ジャイロボール・だいばくはつ
-サーナイト	おくびょうCS	ものしりメガネ	サイコキネシス・10まんボルト・シャドーボール・みちづれ
-サイドン	いじっぱりHA	せんせいのツメ	じしん・ストーンエッジ・メガホーン・つのドリル
-サンダー	まじめAS	ヤチェのみ	かみなり・ドリルくちばし・でんじは・あまごい
-サンダー	おくびょうCS	きあいのハチマキ	10まんボルト・げんしのちから・あやしいかぜ・ひかりのかべ
-サンダー	ようきAS	おうじゃのしるし	ドリルくちばし・たつまき・はがねのつばさ・とんぼがえり
-サンダー	ひかえめCS	ひかりのこな	10まんボルト・エアカッター・ねっぷう・シグナルビーム
-サンダース	ひかえめCS	するどいキバ	10まんボルト・はかいこうせん・シャドーボール・シグナルビーム
-ジバコイル	ひかえめBC	ひかりのこな	10まんボルト・ラスターカノン・トライアタック・シグナルビーム
-シャワーズ	ひかえめHC	たつじんのおび	なみのり・れいとうビーム・シャドーボール・シグナルビーム
-ジュカイン	おくびょうCS	オッカのみ	リーフストーム・りゅうのはどう・きあいだま・はかいこうせん
-ジュゴン	おだやかCD	カゴのみ	なみのり・れいとうビーム・シグナルビーム・ねむる
-スイクン	おだやかCD	きあいのタスキ	なみのり・こごえるかぜ・あやしいかぜ・ミラーコート
-スイクン	ようきAS	おうじゃのしるし	たきのぼり・こおりのキバ・アイアンヘッド・かみつく
-スイクン	ずぶといBC	ラムのみ	ハイドロポンプ・ふぶき・シャドーボール・あられ
-スイクン	ひかえめHC	ソクノのみ	なみのり・れいとうビーム・じんつうりき・めいそう
-スカタンク	ようきAS	ちからのハチマキ	どくづき・つじぎり・かみくだく・だいばくはつ
-スターミー	ひかえめCS	たつじんのおび	なみのり・サイコキネシス・10まんボルト・れいとうビーム
-スリーパー	ひかえめCD	こだわりメガネ	サイコキネシス・シャドーボール・シグナルビーム・きあいだま
-ダーテング	いじっぱりHA	クラボのみ	タネばくだん・ふいうち・つばめがえし・だいばくはつ
-ダイノーズ	ひかえめCD	いのちのたま	ラスターカノン・パワージェム・だいちのちから・10まんボルト
-ダグトリオ	いじっぱりAS	ちからのハチマキ	じしん・ストーンエッジ・きりさく・シャドークロー
-チャーレム	いじっぱりAS	ピントレンズ	サイコカッター・ほのおのパンチ・かみなりパンチ・れいとうパンチ
-チルタリス	ひかえめCS	しろいハーブ	りゅうせいぐん・エアカッター・かえんほうしゃ・れいとうビーム
-ツボツボ	おだやかHBD	たべのこし	どくどく・みがわり・かげぶんしん・すなあらし
-デンリュウ	れいせいHC	フォーカスレンズ	かみなり・きあいだま・シグナルビーム・パワージェム
-ドータクン	いじっぱりHA	せんせいのツメ	しねんのずつき・アイアンヘッド・じしん・だいばくはつ
-ドククラゲ	おくびょうCS	ピントレンズ	ハイドロポンプ・ヘドロばくだん・れいとうビーム・しぼりとる
-ドクロッグ	いじっぱりAS	するどいツメ	ダストシュート・クロスチョップ・じしん・ストーンエッジ
-トゲキッス	ひかえめCS	たつじんのおび	はかいこうせん・エアスラッシュ・はどうだん・サイコキネシス
-ドサイドン	いじっぱりHA	こだわりハチマキ	がんせきほう・じしん・アームハンマー・メガホーン
-ドダイトス	いじっぱりHA	せんせいのツメ	ウッドハンマー・じしん・ストーンエッジ・かみくだく
-トドゼルガ	ひかえめHC	たべのこし	なみのり・れいとうビーム・シグナルビーム・あられ
-ドラピオン	いじっぱりAS	するどいツメ	クロスポイズン・つじぎり・じしん・つばめがえし
-トリデプス	いじっぱりHA	きあいのタスキ	メタルバースト・ストーンエッジ・ゆきなだれ・のろい
-トリトドン	ひかえめHC	ものしりメガネ	なみのり・だいちのちから・れいとうビーム・ヘドロばくだん
-ドンカラス	いじっぱりHA	ピントレンズ	つじぎり・ドリルくちばし・ふいうち・はがねのつばさ
-ドンファン	いじっぱりAB	せんせいのツメ	じしん・ストーンエッジ・タネばくだん・じわれ
-ナッシー	ひかえめHC	たつじんのおび	リーフストーム・サイコキネシス・ヘドロばくだん・げんしのちから
-ナマズン	いじっぱりHA	ちからのハチマキ	じしん・アクアテール・しねんのずつき・ストーンエッジ
-ニドキング	いじっぱりAS	ちからのハチマキ	じしん・どくづき・メガホーン・げきりん
-ニドクイン	いじっぱりHA	するどいツメ	じしん・どくづき・ばかぢから・かみくだく
-ニョロトノ	ひかえめCD	ソクノのみ	ハイドロポンプ・れいとうビーム・サイコキネシス・さいみんじゅつ
-ニョロボン	いじっぱりHA	たつじんのおび	たきのぼり・きあいパンチ・じしん・さいみんじゅつ
-ヌオー	いじっぱりHA	ちからのハチマキ	じしん・たきのぼり・ストーンエッジ・れいとうパンチ
-ネンドール	いじっぱりAD	のんきのおこう	じしん・しねんのずつき・いわなだれ・だいばくはつ
-ハガネール	ゆうかんAB	せんせいのツメ	ジャイロボール・じしん・ストーンエッジ・だいばくはつ
-バクオング	ひかえめHC	しろいハーブ	ハイパーボイス・オーバーヒート・なみのり・れいとうビーム
-バクフーン	ひかえめCS	しろいハーブ	オーバーヒート・ソーラービーム・きあいだま・にほんばれ
-バシャーモ	いじっぱりAS	しろいハーブ	フレアドライブ・ばかぢから・かみなりパンチ・つじぎり
-ハッサム	いじっぱりAB	オッカのみ	シザークロス・アイアンヘッド・つばめがえし・つじぎり
-ハピナス	おだやかHD	たべのこし	ゆめくい・うたう・タマゴうみ・カウンター
-ハリテヤマ	いじっぱりHA	ピントレンズ	クロスチョップ・じしん・ストーンエッジ・どくづき
-バリヤード	ひかえめCD	こだわりメガネ	サイコキネシス・チャージビーム・シャドーボール・きあいだま
-バンギラス	いじっぱりHA	ヨプのみ	ストーンエッジ・かみくだく・じしん・りゅうのまい
-ビークイン	いじっぱりHA	かいがらのすず	こうげきしれい・ぼうぎょしれい・かいふくしれい・あやしいひかり
-ヒードラン	ひかえめCD	シュカのみ	ねっぷう・ラスターカノン・げんしのちから・こわいかお
-ヒードラン	いじっぱりHA	せんせいのツメ	アイアンヘッド・じしん・ストーンエッジ・かみくだく
-ヒードラン	ひかえめHC	ひかりのこな	かえんほうしゃ・だいちのちから・りゅうのはどう・あくのはどう
-ヒードラン	れいせいAC	きあいのタスキ	マグマストーム・ラスターカノン・だいちのちから・だいばくはつ
-ファイヤー	おくびょうCS	イトケのみ	かえんほうしゃ・エアスラッシュ・げんしのちから・はねやすめ
-ファイヤー	おくびょうHC	あついいわ	だいもんじ・ソーラービーム・はかいこうせん・にほんばれ
-ファイヤー	いじっぱりAS	パワフルハーブ	ゴッドバード・おんがえし・はがねのつばさ・とんぼがえり
-ファイヤー	ひかえめCS	しろいハーブ	オーバーヒート・エアスラッシュ・げんしのちから・あやしいかぜ
-ブースター	いじっぱりAD	しろいハーブ	ほのおのキバ・ギガインパクト・ばかぢから・かみつく
-フーディン	ひかえめCS	たつじんのおび	サイコキネシス・シャドーボール・エナジーボール・きあいだま
-ブーバーン	ひかえめCS	しろいハーブ	オーバーヒート・サイコキネシス・きあいだま・あやしいひかり
-フォレトス	いじっぱりAB	のんきのおこう	だいばくはつ・すてみタックル・じしん・いわなだれ
-フシギバナ	ひかえめHC	ものしりメガネ	ハードプラント・ヘドロばくだん・はかいこうせん・こうごうせい
-プテラ	いじっぱりAS	こだわりハチマキ	ストーンエッジ・つばめがえし・じしん・ドラゴンクロー
-フライゴン	いじっぱりAS	ラムのみ	じしん・げきりん・かみくだく・ストーンエッジ
-ブラッキー	わんぱくBD	ひかりのこな	しっぺがえし・きりふだ・のろい・つきのひかり
-フリーザー	きまぐれAC	つめたいいわ	ふぶき・そらをとぶ・はねやすめ・あられ
-フリーザー	ゆうかんAB	ソクノのみ	ゆきなだれ・つばめがえし・からげんき・リフレクター
-フリーザー	ひかえめBC	ものしりメガネ	れいとうビーム・シグナルビーム・あやしいかぜ・みずのはどう
-フリーザー	ひかえめCD	ヨロギのみ	れいとうビーム・エアカッター・げんしのちから・ぜったいれいど
-フローゼル	いじっぱりAS	するどいキバ	アクアテール・こおりのキバ・かみくだく・かわらわり
-フワライド	きまぐれHA	のんきのおこう	シャドーボール・エアカッター・ぎんいろのかぜ・だいばくはつ
-ベトベトン	いじっぱりHA	せんせいのツメ	ダストシュート・かげうち・かわらわり・だいばくはつ
-ヘラクロス	ようきAS	カムラのみ	メガホーン・じしん・きしかいせい・こらえる
-ヘルガー	おくびょうCS	しろいハーブ	オーバーヒート・あくのはどう・ソーラービーム・にほんばれ
-ベロベルト	いじっぱりHA	のんきのおこう	のしかかり・パワーウィップ・じしん・だいばくはつ
-ホエルオー	ひかえめHC	せんせいのツメ	ハイドロポンプ・ふぶき・はかいこうせん・じわれ
-ボーマンダ	いじっぱりAS	ラムのみ	げきりん・かみくだく・じしん・しねんのずつき
-ボスゴドラ	いじっぱりAB	きあいのタスキ	メタルバースト・ストーンエッジ・じしん・シャドークロー
-ポリゴン2	ひかえめHC	ラムのみ	トライアタック・シグナルビーム・シャドーボール・れいとうビーム
-ポリゴンZ	ひかえめCS	たつじんのおび	トライアタック・シャドーボール・10まんボルト・じこさいせい
-マタドガス	ひかえめBC	せんせいのツメ	ヘドロばくだん・かえんほうしゃ・シャドーボール・みちづれ
-マニューラ	ようきAS	するどいツメ	つじぎり・れいとうパンチ・つばめがえし・かわらわり
-マルマイン	がんばりやCS	きあいのタスキ	10まんボルト・シグナルビーム・だいばくはつ・ミラーコート
-マンムー	いじっぱりHA	いのちのたま	じしん・こおりのキバ・ストーンエッジ・すてみタックル
-ミミロップ	ようきAS	ちからのハチマキ	ピヨピヨパンチ・ほのおのパンチ・かみなりパンチ・れいとうパンチ
-ミルタンク	いじっぱりAS	ちからのハチマキ	ギガインパクト・じしん・いわなだれ・しねんのずつき
-ミロカロス	ひかえめHC	ラムのみ	なみのり・れいとうビーム・りゅうのはどう・じこさいせい
-ムウマージ	おくびょうCS	きあいのタスキ	シャドーボール・サイコキネシス・10まんボルト・みちづれ
-ムクホーク	いじっぱりAS	こだわりハチマキ	ブレイブバード・ギガインパクト・インファイト・とんぼがえり
-メガニウム	ひかえめHC	のんきのおこう	ハードプラント・げんしのちから・はかいこうせん・ひかりのかべ
-メガヤンマ	ひかえめCS	ものしりメガネ	むしのさざめき・エアスラッシュ・サイコキネシス・シャドーボール
-メタグロス	いじっぱりHA	せんせいのツメ	コメットパンチ・しねんのずつき・じしん・だいばくはつ
-モジャンボ	いじっぱりAB	のんきのおこう	パワーウィップ・じしん・つばめがえし・かわらわり
-ヤドキング	ひかえめHC	ものしりメガネ	サイコキネシス・なみのり・れいとうビーム・かえんほうしゃ
-ヤドラン	れいせいHC	たべのこし	サイコキネシス・なみのり・れいとうビーム・トリックルーム
-ユキノオー	ゆうかんHA	かいがらのすず	ウッドハンマー・ゆきなだれ・じしん・いわなだれ
-ユキメノコ	ひかえめCS	のんきのおこう	ふぶき・シャドーボール・サイコキネシス・あられ
-ユレイドル	おだやかHBD	たべのこし	ストーンエッジ・タネばくだん・じしん・ミラーコート
-ヨノワール	いじっぱりBD	ちからのハチマキ	シャドーパンチ・じしん・かわらわり・いわなだれ
-ライコウ	おくびょうCS	ラムのみ	10まんボルト・シャドーボール・でんじは・ひかりのかべ
-ライコウ	ようきAS	おうじゃのしるし	かみなりのキバ・かみくだく・アイアンヘッド・おんがえし
-ライコウ	ひかえめCS	ものしりメガネ	かみなり・じんつうりき・シグナルビーム・あまごい
-ライコウ	ひかえめCS	シュカのみ	10まんボルト・じんつうりき・シャドーボール・めいそう
-ライチュウ	いじっぱりAS	ひかりのこな	ボルテッカー・おんがえし・かわらわり・でんじは
-ライボルト	おくびょうCS	ひかりのこな	10まんボルト・かえんほうしゃ・シグナルビーム・スピードスター
-ラグラージ	いじっぱりHA	リンドのみ	じしん・アクアテール・ゆきなだれ・ミラーコート
-ラティアス	おだやかCD	ラムのみ	サイコキネシス・りゅうのはどう・メロメロ・めいそう
-ラティアス	いじっぱりAS	たつじんのおび	ドラゴンクロー・しねんのずつき・じしん・つばめがえし
-ラティアス	おくびょうCS	ひかりのこな	サイコキネシス・れいとうビーム・エナジーボール・シャドーボール
-ラティアス	ひかえめCS	しろいハーブ	ミストボール・りゅうせいぐん・10まんボルト・なみのり
-ラティオス	おだやかCD	きあいのハチマキ	サイコキネシス・りゅうのはどう・でんじは・めいそう
-ラティオス	いじっぱりAS	ラムのみ	ドラゴンクロー・シャドークロー・じしん・りゅうのまい
-ラティオス	おくびょうCS	ひかりのこな	サイコキネシス・10まんボルト・れいとうビーム・エナジーボール
-ラティオス	ひかえめCS	しろいハーブ	ラスターパージ・りゅうせいぐん・はかいこうせん・なみのり
-ラプラス	ひかえめHC	ひかりのこな	なみのり・れいとうビーム・サイコキネシス・10まんボルト
-ラフレシア	ひかえめHC	ものしりメガネ	ヘドロばくだん・エナジーボール・はかいこうせん・こうごうせい
-ラムパルド	ようきAS	こだわりスカーフ	もろはのずつき・じしん・ギガインパクト・ばかぢから
-ランターン	ひかえめHC	たつじんのおび	なみのり・10まんボルト・れいとうビーム・シグナルビーム
-リーフィア	いじっぱりAB	せんせいのツメ	リーフブレード・シザークロス・つばめがえし・かみつく
-リザードン	おくびょうCS	ひかりのこな	ブラストバーン・エアスラッシュ・きあいだま・げんしのちから
-リングマ	いじっぱりHA	せんせいのツメ	おんがえし・クロスチョップ・じしん・つばめがえし
-ルージュラ	ひかえめCS	こだわりメガネ	れいとうビーム・サイコキネシス・きあいだま・シャドーボール
-ルカリオ	ひかえめCS	たつじんのおび	はどうだん・サイコキネシス・シャドーボール・りゅうのはどう
-ルンパッパ	ひかえめCD	ラムのみ	なみのり・ギガドレイン・れいとうビーム・あまごい
-レジアイス	ひかえめCD	ラムのみ	れいとうビーム・シグナルビーム・チャージビーム・ドわすれ
-レジアイス	わんぱくHB	たべのこし	ゆきなだれ・アームハンマー・かげぶんしん・のろい
-レジアイス	ずぶといBC	カゴのみ	れいとうビーム・ラスターカノン・げんしのちから・ねむる
-レジアイス	ひかえめHC	かいがらのすず	れいとうビーム・10まんボルト・はかいこうせん・きあいだま
-レジギガス	わんぱくHBD	のんきのおこう	おんがえし・つばめがえし・でんじは・あやしいひかり
-レジギガス	しんちょうHBD	たべのこし	からげんき・しねんのずつき・かげぶんしん・みがわり
-レジギガス	ひかえめHC	ものしりメガネ	だいちのちから・きあいだま・10まんボルト・げんしのちから
-レジギガス	いじっぱりHA	ひかりのこな	にぎりつぶす・じしん・ストーンエッジ・ドレインパンチ
-レジスチル	ひかえめHC	ラムのみ	ラスターカノン・10まんボルト・でんじは・ドわすれ
-レジスチル	いじっぱりHBD	たべのこし	アイアンヘッド・どくどく・かげぶんしん・てっぺき
-レジスチル	いじっぱりHA	するどいツメ	シャドークロー・つばめがえし・かみなりパンチ・れいとうパンチ
-レジスチル	いじっぱりHBD	かいがらのすず	アイアンヘッド・アームハンマー・じしん・のろい
-レジロック	わんぱくAB	たべのこし	いわなだれ・じしん・かわらわり・すなあらし
-レジロック	いじっぱりHA	するどいツメ	ほのおのパンチ・かみなりパンチ・れいとうパンチ・ドレインパンチ
-レジロック	しんちょうHD	カゴのみ	ストーンエッジ・アームハンマー・ねむる・のろい
-レジロック	しんちょうAD	せんせいのツメ	ストーンエッジ・じしん・アームハンマー・だいばくはつ
-レントラー	いじっぱりHA	ちからのハチマキ	かみなりのキバ・こおりのキバ・かみくだく・でんじは
-ロズレイド	ひかえめCS	しろいハーブ	リーフストーム・ヘドロばくだん・シャドーボール・ウェザーボール
+<tr>
+-アーマルド-アーマルド-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いのちのたま-いのちのたま</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ストーンエッジ・シザークロス・じしん・クロスポイズン-ストーンエッジ・シザークロス・じしん・クロスポイズン</td>
+</tr>
+<tr>
+-アブソル-アブソル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりハチマキ-こだわりハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;つじぎり・ばかぢから・ギガインパクト・しねんのずつき-つじぎり・ばかぢから・ギガインパクト・しねんのずつき</td>
+</tr>
+<tr>
+-ウインディ-ウインディ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのハチマキ-きあいのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;フレアドライブ・しんそく・かみくだく・かみなりのキバ-フレアドライブ・しんそく・かみくだく・かみなりのキバ</td>
+</tr>
+<tr>
+-ウツボット-ウツボット-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのハチマキ-きあいのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ソーラービーム・ヘドロばくだん・しぼりとる・にほんばれ-ソーラービーム・ヘドロばくだん・しぼりとる・にほんばれ</td>
+</tr>
+<tr>
+-エアームド-エアームド-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いのちのたま-いのちのたま</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ブレイブバード・はがねのつばさ・シザークロス・いわなだれ-ブレイブバード・はがねのつばさ・シザークロス・いわなだれ</td>
+</tr>
+<tr>
+-エーフィ-エーフィ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・シャドーボール・シグナルビーム・あさのひざし-サイコキネシス・シャドーボール・シグナルビーム・あさのひざし</td>
+</tr>
+<tr>
+-エテボース-エテボース-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いのちのたま-いのちのたま</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ダブルアタック・ほのおのパンチ・かみなりパンチ・れいとうパンチ-ダブルアタック・ほのおのパンチ・かみなりパンチ・れいとうパンチ</td>
+</tr>
+<tr>
+-エルレイド-エルレイド-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ピントレンズ-ピントレンズ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコカッター・インファイト・リーフブレード・つじぎり-サイコカッター・インファイト・リーフブレード・つじぎり</td>
+</tr>
+<tr>
+-エレキブル-エレキブル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シュカのみ-シュカのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かみなりパンチ・ほのおのパンチ・れいとうパンチ・じしん-かみなりパンチ・ほのおのパンチ・れいとうパンチ・じしん</td>
+</tr>
+<tr>
+-エンテイ-エンテイ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シュカのみ-シュカのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ほのおのキバ・おんがえし・ほえる・リフレクター-ほのおのキバ・おんがえし・ほえる・リフレクター</td>
+</tr>
+<tr>
+-エンテイ-エンテイ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おうじゃのしるし-おうじゃのしるし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ほのおのキバ・かみつく・アイアンヘッド・ストーンエッジ-ほのおのキバ・かみつく・アイアンヘッド・ストーンエッジ</td>
+</tr>
+<tr>
+-エンテイ-エンテイ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シュカのみ-シュカのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;だいもんじ・ソーラービーム・はかいこうせん・にほんばれ-だいもんじ・ソーラービーム・はかいこうせん・にほんばれ</td>
+</tr>
+<tr>
+-エンテイ-エンテイ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シュカのみ-シュカのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;オーバーヒート・じんつうりき・シャドーボール・めいそう-オーバーヒート・じんつうりき・シャドーボール・めいそう</td>
+</tr>
+<tr>
+-エンペルト-エンペルト-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ゆうかんAC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ゆうかんAC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハイドロカノン・ラスターカノン・ドリルくちばし・じしん-ハイドロカノン・ラスターカノン・ドリルくちばし・じしん</td>
+</tr>
+<tr>
+-オーダイル-オーダイル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たきのぼり・じしん・こおりのキバ・りゅうのまい-たきのぼり・じしん・こおりのキバ・りゅうのまい</td>
+</tr>
+<tr>
+-オニゴーリ-オニゴーリ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のんきのおこう-のんきのおこう</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ふぶき・あくのはどう・ぜったいれいど・あられ-ふぶき・あくのはどう・ぜったいれいど・あられ</td>
+</tr>
+<tr>
+-カイリキー-カイリキー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;クロスチョップ・じしん・かみなりパンチ・ほのおのパンチ-クロスチョップ・じしん・かみなりパンチ・ほのおのパンチ</td>
+</tr>
+<tr>
+-カイリュー-カイリュー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりハチマキ-こだわりハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;げきりん・ギガインパクト・じしん・ばかぢから-げきりん・ギガインパクト・じしん・ばかぢから</td>
+</tr>
+<tr>
+-カイロス-カイロス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ピントレンズ-ピントレンズ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シザークロス・じしん・インファイト・ハサミギロチン-シザークロス・じしん・インファイト・ハサミギロチン</td>
+</tr>
+<tr>
+-カバルドン-カバルドン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・ストーンエッジ・かみくだく・かみなりのキバ-じしん・ストーンエッジ・かみくだく・かみなりのキバ</td>
+</tr>
+<tr>
+-カビゴン-カビゴン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いのちのたま-いのちのたま</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;すてみタックル・じしん・しねんのずつき・かみくだく-すてみタックル・じしん・しねんのずつき・かみくだく</td>
+</tr>
+<tr>
+-ガブリアス-ガブリアス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;キーのみ-キーのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;げきりん・じしん・かみくだく・ほのおのキバ-げきりん・じしん・かみくだく・ほのおのキバ</td>
+</tr>
+<tr>
+-カメックス-カメックス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かいがらのすず-かいがらのすず</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハイドロカノン・れいとうビーム・はかいこうせん・きあいだま-ハイドロカノン・れいとうビーム・はかいこうせん・きあいだま</td>
+</tr>
+<tr>
+-ガラガラ-ガラガラ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ふといホネ-ふといホネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・ストーンエッジ・アイアンヘッド・かみなりパンチ-じしん・ストーンエッジ・アイアンヘッド・かみなりパンチ</td>
+</tr>
+<tr>
+-ガルーラ-ガルーラ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ギガインパクト・じしん・かみくだく・げきりん-ギガインパクト・じしん・かみくだく・げきりん</td>
+</tr>
+<tr>
+-キノガッサ-キノガッサ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かいがらのすず-かいがらのすず</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいパンチ・タネばくだん・ギガインパクト・キノコのほうし-きあいパンチ・タネばくだん・ギガインパクト・キノコのほうし</td>
+</tr>
+<tr>
+-ギャラドス-ギャラドス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;カゴのみ-カゴのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たきのぼり・じしん・ねむる・りゅうのまい-たきのぼり・じしん・ねむる・りゅうのまい</td>
+</tr>
+<tr>
+-ギャロップ-ギャロップ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;カゴのみ-カゴのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;フレアドライブ・メガホーン・すてみタックル・さいみんじゅつ-フレアドライブ・メガホーン・すてみタックル・さいみんじゅつ</td>
+</tr>
+<tr>
+-キュウコン-キュウコン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;イトケのみ-イトケのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かえんほうしゃ・じんつうりき・エナジーボール・めいそう-かえんほうしゃ・じんつうりき・エナジーボール・めいそう</td>
+</tr>
+<tr>
+-キングドラ-キングドラ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こうかくレンズ-こうかくレンズ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハイドロポンプ・りゅうせいぐん・ふぶき・シグナルビーム-ハイドロポンプ・りゅうせいぐん・ふぶき・シグナルビーム</td>
+</tr>
+<tr>
+-グライオン-グライオン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・つばめがえし・シザークロス・ストーンエッジ-じしん・つばめがえし・シザークロス・ストーンエッジ</td>
+</tr>
+<tr>
+-グランブル-グランブル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いのちのたま-いのちのたま</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ギガインパクト・インファイト・じしん・ストーンエッジ-ギガインパクト・インファイト・じしん・ストーンエッジ</td>
+</tr>
+<tr>
+-グレイシア-グレイシア-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめBC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめBC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいとうビーム・シャドーボール・シグナルビーム・みずのはどう-れいとうビーム・シャドーボール・シグナルビーム・みずのはどう</td>
+</tr>
+<tr>
+-クレセリア-クレセリア-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ずぶといBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ずぶといBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;あついいわ-あついいわ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・ソーラービーム・つきのひかり・にほんばれ-サイコキネシス・ソーラービーム・つきのひかり・にほんばれ</td>
+</tr>
+<tr>
+-クレセリア-クレセリア-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ずぶといHBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ずぶといHBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・どくどく・かげぶんしん・つきのひかり-サイコキネシス・どくどく・かげぶんしん・つきのひかり</td>
+</tr>
+<tr>
+-クレセリア-クレセリア-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・シャドーボール・エナジーボール・チャージビーム-サイコキネシス・シャドーボール・エナジーボール・チャージビーム</td>
+</tr>
+<tr>
+-クレセリア-クレセリア-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・れいとうビーム・シグナルビーム・つきのひかり-サイコキネシス・れいとうビーム・シグナルビーム・つきのひかり</td>
+</tr>
+<tr>
+-クロバット-クロバット-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;するどいツメ-するどいツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;クロスポイズン・ブレイブバード・シザークロス・しねんのずつき-クロスポイズン・ブレイブバード・シザークロス・しねんのずつき</td>
+</tr>
+<tr>
+-ケッキング-ケッキング-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ギガインパクト・じしん・アームハンマー・シャドークロー-ギガインパクト・じしん・アームハンマー・シャドークロー</td>
+</tr>
+<tr>
+-ゲンガー-ゲンガー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シャドーボール・ヘドロばくだん・10まんボルト・みちづれ-シャドーボール・ヘドロばくだん・10まんボルト・みちづれ</td>
+</tr>
+<tr>
+-ケンタロス-ケンタロス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりハチマキ-こだわりハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おんがえし・じしん・ストーンエッジ・しねんのずつき-おんがえし・じしん・ストーンエッジ・しねんのずつき</td>
+</tr>
+<tr>
+-ゴウカザル-ゴウカザル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おうじゃのしるし-おうじゃのしるし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;フレアドライブ・インファイト・じしん・かみなりパンチ-フレアドライブ・インファイト・じしん・かみなりパンチ</td>
+</tr>
+<tr>
+-ゴルダック-ゴルダック-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ソクノのみ-ソクノのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハイドロポンプ・サイコキネシス・れいとうビーム・シグナルビーム-ハイドロポンプ・サイコキネシス・れいとうビーム・シグナルビーム</td>
+</tr>
+<tr>
+-ゴローニャ-ゴローニャ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ゆうかんAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ゆうかんAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・ストーンエッジ・ジャイロボール・だいばくはつ-じしん・ストーンエッジ・ジャイロボール・だいばくはつ</td>
+</tr>
+<tr>
+-サーナイト-サーナイト-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・10まんボルト・シャドーボール・みちづれ-サイコキネシス・10まんボルト・シャドーボール・みちづれ</td>
+</tr>
+<tr>
+-サイドン-サイドン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・ストーンエッジ・メガホーン・つのドリル-じしん・ストーンエッジ・メガホーン・つのドリル</td>
+</tr>
+<tr>
+-サンダー-サンダー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;まじめAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">まじめAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ヤチェのみ-ヤチェのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かみなり・ドリルくちばし・でんじは・あまごい-かみなり・ドリルくちばし・でんじは・あまごい</td>
+</tr>
+<tr>
+-サンダー-サンダー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのハチマキ-きあいのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10まんボルト・げんしのちから・あやしいかぜ・ひかりのかべ-10まんボルト・げんしのちから・あやしいかぜ・ひかりのかべ</td>
+</tr>
+<tr>
+-サンダー-サンダー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おうじゃのしるし-おうじゃのしるし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ドリルくちばし・たつまき・はがねのつばさ・とんぼがえり-ドリルくちばし・たつまき・はがねのつばさ・とんぼがえり</td>
+</tr>
+<tr>
+-サンダー-サンダー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10まんボルト・エアカッター・ねっぷう・シグナルビーム-10まんボルト・エアカッター・ねっぷう・シグナルビーム</td>
+</tr>
+<tr>
+-サンダース-サンダース-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;するどいキバ-するどいキバ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10まんボルト・はかいこうせん・シャドーボール・シグナルビーム-10まんボルト・はかいこうせん・シャドーボール・シグナルビーム</td>
+</tr>
+<tr>
+-ジバコイル-ジバコイル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめBC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめBC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10まんボルト・ラスターカノン・トライアタック・シグナルビーム-10まんボルト・ラスターカノン・トライアタック・シグナルビーム</td>
+</tr>
+<tr>
+-シャワーズ-シャワーズ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・れいとうビーム・シャドーボール・シグナルビーム-なみのり・れいとうビーム・シャドーボール・シグナルビーム</td>
+</tr>
+<tr>
+-ジュカイン-ジュカイン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;オッカのみ-オッカのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;リーフストーム・りゅうのはどう・きあいだま・はかいこうせん-リーフストーム・りゅうのはどう・きあいだま・はかいこうせん</td>
+</tr>
+<tr>
+-ジュゴン-ジュゴン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おだやかCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おだやかCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;カゴのみ-カゴのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・れいとうビーム・シグナルビーム・ねむる-なみのり・れいとうビーム・シグナルビーム・ねむる</td>
+</tr>
+<tr>
+-スイクン-スイクン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おだやかCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おだやかCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのタスキ-きあいのタスキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・こごえるかぜ・あやしいかぜ・ミラーコート-なみのり・こごえるかぜ・あやしいかぜ・ミラーコート</td>
+</tr>
+<tr>
+-スイクン-スイクン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おうじゃのしるし-おうじゃのしるし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たきのぼり・こおりのキバ・アイアンヘッド・かみつく-たきのぼり・こおりのキバ・アイアンヘッド・かみつく</td>
+</tr>
+<tr>
+-スイクン-スイクン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ずぶといBC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ずぶといBC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハイドロポンプ・ふぶき・シャドーボール・あられ-ハイドロポンプ・ふぶき・シャドーボール・あられ</td>
+</tr>
+<tr>
+-スイクン-スイクン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ソクノのみ-ソクノのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・れいとうビーム・じんつうりき・めいそう-なみのり・れいとうビーム・じんつうりき・めいそう</td>
+</tr>
+<tr>
+-スカタンク-スカタンク-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;どくづき・つじぎり・かみくだく・だいばくはつ-どくづき・つじぎり・かみくだく・だいばくはつ</td>
+</tr>
+<tr>
+-スターミー-スターミー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・サイコキネシス・10まんボルト・れいとうビーム-なみのり・サイコキネシス・10まんボルト・れいとうビーム</td>
+</tr>
+<tr>
+-スリーパー-スリーパー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりメガネ-こだわりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・シャドーボール・シグナルビーム・きあいだま-サイコキネシス・シャドーボール・シグナルビーム・きあいだま</td>
+</tr>
+<tr>
+-ダーテング-ダーテング-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;クラボのみ-クラボのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;タネばくだん・ふいうち・つばめがえし・だいばくはつ-タネばくだん・ふいうち・つばめがえし・だいばくはつ</td>
+</tr>
+<tr>
+-ダイノーズ-ダイノーズ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いのちのたま-いのちのたま</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラスターカノン・パワージェム・だいちのちから・10まんボルト-ラスターカノン・パワージェム・だいちのちから・10まんボルト</td>
+</tr>
+<tr>
+-ダグトリオ-ダグトリオ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・ストーンエッジ・きりさく・シャドークロー-じしん・ストーンエッジ・きりさく・シャドークロー</td>
+</tr>
+<tr>
+-チャーレム-チャーレム-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ピントレンズ-ピントレンズ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコカッター・ほのおのパンチ・かみなりパンチ・れいとうパンチ-サイコカッター・ほのおのパンチ・かみなりパンチ・れいとうパンチ</td>
+</tr>
+<tr>
+-チルタリス-チルタリス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;りゅうせいぐん・エアカッター・かえんほうしゃ・れいとうビーム-りゅうせいぐん・エアカッター・かえんほうしゃ・れいとうビーム</td>
+</tr>
+<tr>
+-ツボツボ-ツボツボ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おだやかHBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おだやかHBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;どくどく・みがわり・かげぶんしん・すなあらし-どくどく・みがわり・かげぶんしん・すなあらし</td>
+</tr>
+<tr>
+-デンリュウ-デンリュウ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいせいHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">れいせいHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;フォーカスレンズ-フォーカスレンズ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かみなり・きあいだま・シグナルビーム・パワージェム-かみなり・きあいだま・シグナルビーム・パワージェム</td>
+</tr>
+<tr>
+-ドータクン-ドータクン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しねんのずつき・アイアンヘッド・じしん・だいばくはつ-しねんのずつき・アイアンヘッド・じしん・だいばくはつ</td>
+</tr>
+<tr>
+-ドククラゲ-ドククラゲ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ピントレンズ-ピントレンズ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハイドロポンプ・ヘドロばくだん・れいとうビーム・しぼりとる-ハイドロポンプ・ヘドロばくだん・れいとうビーム・しぼりとる</td>
+</tr>
+<tr>
+-ドクロッグ-ドクロッグ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;するどいツメ-するどいツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ダストシュート・クロスチョップ・じしん・ストーンエッジ-ダストシュート・クロスチョップ・じしん・ストーンエッジ</td>
+</tr>
+<tr>
+-トゲキッス-トゲキッス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;はかいこうせん・エアスラッシュ・はどうだん・サイコキネシス-はかいこうせん・エアスラッシュ・はどうだん・サイコキネシス</td>
+</tr>
+<tr>
+-ドサイドン-ドサイドン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりハチマキ-こだわりハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;がんせきほう・じしん・アームハンマー・メガホーン-がんせきほう・じしん・アームハンマー・メガホーン</td>
+</tr>
+<tr>
+-ドダイトス-ドダイトス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ウッドハンマー・じしん・ストーンエッジ・かみくだく-ウッドハンマー・じしん・ストーンエッジ・かみくだく</td>
+</tr>
+<tr>
+-トドゼルガ-トドゼルガ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・れいとうビーム・シグナルビーム・あられ-なみのり・れいとうビーム・シグナルビーム・あられ</td>
+</tr>
+<tr>
+-ドラピオン-ドラピオン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;するどいツメ-するどいツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;クロスポイズン・つじぎり・じしん・つばめがえし-クロスポイズン・つじぎり・じしん・つばめがえし</td>
+</tr>
+<tr>
+-トリデプス-トリデプス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのタスキ-きあいのタスキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;メタルバースト・ストーンエッジ・ゆきなだれ・のろい-メタルバースト・ストーンエッジ・ゆきなだれ・のろい</td>
+</tr>
+<tr>
+-トリトドン-トリトドン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・だいちのちから・れいとうビーム・ヘドロばくだん-なみのり・だいちのちから・れいとうビーム・ヘドロばくだん</td>
+</tr>
+<tr>
+-ドンカラス-ドンカラス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ピントレンズ-ピントレンズ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;つじぎり・ドリルくちばし・ふいうち・はがねのつばさ-つじぎり・ドリルくちばし・ふいうち・はがねのつばさ</td>
+</tr>
+<tr>
+-ドンファン-ドンファン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・ストーンエッジ・タネばくだん・じわれ-じしん・ストーンエッジ・タネばくだん・じわれ</td>
+</tr>
+<tr>
+-ナッシー-ナッシー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;リーフストーム・サイコキネシス・ヘドロばくだん・げんしのちから-リーフストーム・サイコキネシス・ヘドロばくだん・げんしのちから</td>
+</tr>
+<tr>
+-ナマズン-ナマズン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・アクアテール・しねんのずつき・ストーンエッジ-じしん・アクアテール・しねんのずつき・ストーンエッジ</td>
+</tr>
+<tr>
+-ニドキング-ニドキング-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・どくづき・メガホーン・げきりん-じしん・どくづき・メガホーン・げきりん</td>
+</tr>
+<tr>
+-ニドクイン-ニドクイン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;するどいツメ-するどいツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・どくづき・ばかぢから・かみくだく-じしん・どくづき・ばかぢから・かみくだく</td>
+</tr>
+<tr>
+-ニョロトノ-ニョロトノ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ソクノのみ-ソクノのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハイドロポンプ・れいとうビーム・サイコキネシス・さいみんじゅつ-ハイドロポンプ・れいとうビーム・サイコキネシス・さいみんじゅつ</td>
+</tr>
+<tr>
+-ニョロボン-ニョロボン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たきのぼり・きあいパンチ・じしん・さいみんじゅつ-たきのぼり・きあいパンチ・じしん・さいみんじゅつ</td>
+</tr>
+<tr>
+-ヌオー-ヌオー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・たきのぼり・ストーンエッジ・れいとうパンチ-じしん・たきのぼり・ストーンエッジ・れいとうパンチ</td>
+</tr>
+<tr>
+-ネンドール-ネンドール-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のんきのおこう-のんきのおこう</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・しねんのずつき・いわなだれ・だいばくはつ-じしん・しねんのずつき・いわなだれ・だいばくはつ</td>
+</tr>
+<tr>
+-ハガネール-ハガネール-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ゆうかんAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ゆうかんAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ジャイロボール・じしん・ストーンエッジ・だいばくはつ-ジャイロボール・じしん・ストーンエッジ・だいばくはつ</td>
+</tr>
+<tr>
+-バクオング-バクオング-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハイパーボイス・オーバーヒート・なみのり・れいとうビーム-ハイパーボイス・オーバーヒート・なみのり・れいとうビーム</td>
+</tr>
+<tr>
+-バクフーン-バクフーン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;オーバーヒート・ソーラービーム・きあいだま・にほんばれ-オーバーヒート・ソーラービーム・きあいだま・にほんばれ</td>
+</tr>
+<tr>
+-バシャーモ-バシャーモ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;フレアドライブ・ばかぢから・かみなりパンチ・つじぎり-フレアドライブ・ばかぢから・かみなりパンチ・つじぎり</td>
+</tr>
+<tr>
+-ハッサム-ハッサム-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;オッカのみ-オッカのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シザークロス・アイアンヘッド・つばめがえし・つじぎり-シザークロス・アイアンヘッド・つばめがえし・つじぎり</td>
+</tr>
+<tr>
+-ハピナス-ハピナス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おだやかHD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おだやかHD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ゆめくい・うたう・タマゴうみ・カウンター-ゆめくい・うたう・タマゴうみ・カウンター</td>
+</tr>
+<tr>
+-ハリテヤマ-ハリテヤマ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ピントレンズ-ピントレンズ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;クロスチョップ・じしん・ストーンエッジ・どくづき-クロスチョップ・じしん・ストーンエッジ・どくづき</td>
+</tr>
+<tr>
+-バリヤード-バリヤード-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりメガネ-こだわりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・チャージビーム・シャドーボール・きあいだま-サイコキネシス・チャージビーム・シャドーボール・きあいだま</td>
+</tr>
+<tr>
+-バンギラス-バンギラス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ヨプのみ-ヨプのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ストーンエッジ・かみくだく・じしん・りゅうのまい-ストーンエッジ・かみくだく・じしん・りゅうのまい</td>
+</tr>
+<tr>
+-ビークイン-ビークイン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かいがらのすず-かいがらのすず</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こうげきしれい・ぼうぎょしれい・かいふくしれい・あやしいひかり-こうげきしれい・ぼうぎょしれい・かいふくしれい・あやしいひかり</td>
+</tr>
+<tr>
+-ヒードラン-ヒードラン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シュカのみ-シュカのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ねっぷう・ラスターカノン・げんしのちから・こわいかお-ねっぷう・ラスターカノン・げんしのちから・こわいかお</td>
+</tr>
+<tr>
+-ヒードラン-ヒードラン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;アイアンヘッド・じしん・ストーンエッジ・かみくだく-アイアンヘッド・じしん・ストーンエッジ・かみくだく</td>
+</tr>
+<tr>
+-ヒードラン-ヒードラン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かえんほうしゃ・だいちのちから・りゅうのはどう・あくのはどう-かえんほうしゃ・だいちのちから・りゅうのはどう・あくのはどう</td>
+</tr>
+<tr>
+-ヒードラン-ヒードラン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいせいAC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">れいせいAC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのタスキ-きあいのタスキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;マグマストーム・ラスターカノン・だいちのちから・だいばくはつ-マグマストーム・ラスターカノン・だいちのちから・だいばくはつ</td>
+</tr>
+<tr>
+-ファイヤー-ファイヤー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;イトケのみ-イトケのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かえんほうしゃ・エアスラッシュ・げんしのちから・はねやすめ-かえんほうしゃ・エアスラッシュ・げんしのちから・はねやすめ</td>
+</tr>
+<tr>
+-ファイヤー-ファイヤー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;あついいわ-あついいわ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;だいもんじ・ソーラービーム・はかいこうせん・にほんばれ-だいもんじ・ソーラービーム・はかいこうせん・にほんばれ</td>
+</tr>
+<tr>
+-ファイヤー-ファイヤー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;パワフルハーブ-パワフルハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ゴッドバード・おんがえし・はがねのつばさ・とんぼがえり-ゴッドバード・おんがえし・はがねのつばさ・とんぼがえり</td>
+</tr>
+<tr>
+-ファイヤー-ファイヤー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;オーバーヒート・エアスラッシュ・げんしのちから・あやしいかぜ-オーバーヒート・エアスラッシュ・げんしのちから・あやしいかぜ</td>
+</tr>
+<tr>
+-ブースター-ブースター-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ほのおのキバ・ギガインパクト・ばかぢから・かみつく-ほのおのキバ・ギガインパクト・ばかぢから・かみつく</td>
+</tr>
+<tr>
+-フーディン-フーディン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・シャドーボール・エナジーボール・きあいだま-サイコキネシス・シャドーボール・エナジーボール・きあいだま</td>
+</tr>
+<tr>
+-ブーバーン-ブーバーン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;オーバーヒート・サイコキネシス・きあいだま・あやしいひかり-オーバーヒート・サイコキネシス・きあいだま・あやしいひかり</td>
+</tr>
+<tr>
+-フォレトス-フォレトス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のんきのおこう-のんきのおこう</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;だいばくはつ・すてみタックル・じしん・いわなだれ-だいばくはつ・すてみタックル・じしん・いわなだれ</td>
+</tr>
+<tr>
+-フシギバナ-フシギバナ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハードプラント・ヘドロばくだん・はかいこうせん・こうごうせい-ハードプラント・ヘドロばくだん・はかいこうせん・こうごうせい</td>
+</tr>
+<tr>
+-プテラ-プテラ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりハチマキ-こだわりハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ストーンエッジ・つばめがえし・じしん・ドラゴンクロー-ストーンエッジ・つばめがえし・じしん・ドラゴンクロー</td>
+</tr>
+<tr>
+-フライゴン-フライゴン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・げきりん・かみくだく・ストーンエッジ-じしん・げきりん・かみくだく・ストーンエッジ</td>
+</tr>
+<tr>
+-ブラッキー-ブラッキー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;わんぱくBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">わんぱくBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しっぺがえし・きりふだ・のろい・つきのひかり-しっぺがえし・きりふだ・のろい・つきのひかり</td>
+</tr>
+<tr>
+-フリーザー-フリーザー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きまぐれAC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">きまぐれAC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;つめたいいわ-つめたいいわ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ふぶき・そらをとぶ・はねやすめ・あられ-ふぶき・そらをとぶ・はねやすめ・あられ</td>
+</tr>
+<tr>
+-フリーザー-フリーザー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ゆうかんAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ゆうかんAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ソクノのみ-ソクノのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ゆきなだれ・つばめがえし・からげんき・リフレクター-ゆきなだれ・つばめがえし・からげんき・リフレクター</td>
+</tr>
+<tr>
+-フリーザー-フリーザー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめBC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめBC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいとうビーム・シグナルビーム・あやしいかぜ・みずのはどう-れいとうビーム・シグナルビーム・あやしいかぜ・みずのはどう</td>
+</tr>
+<tr>
+-フリーザー-フリーザー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ヨロギのみ-ヨロギのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいとうビーム・エアカッター・げんしのちから・ぜったいれいど-れいとうビーム・エアカッター・げんしのちから・ぜったいれいど</td>
+</tr>
+<tr>
+-フローゼル-フローゼル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;するどいキバ-するどいキバ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;アクアテール・こおりのキバ・かみくだく・かわらわり-アクアテール・こおりのキバ・かみくだく・かわらわり</td>
+</tr>
+<tr>
+-フワライド-フワライド-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きまぐれHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">きまぐれHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のんきのおこう-のんきのおこう</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シャドーボール・エアカッター・ぎんいろのかぜ・だいばくはつ-シャドーボール・エアカッター・ぎんいろのかぜ・だいばくはつ</td>
+</tr>
+<tr>
+-ベトベトン-ベトベトン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ダストシュート・かげうち・かわらわり・だいばくはつ-ダストシュート・かげうち・かわらわり・だいばくはつ</td>
+</tr>
+<tr>
+-ヘラクロス-ヘラクロス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;カムラのみ-カムラのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;メガホーン・じしん・きしかいせい・こらえる-メガホーン・じしん・きしかいせい・こらえる</td>
+</tr>
+<tr>
+-ヘルガー-ヘルガー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;オーバーヒート・あくのはどう・ソーラービーム・にほんばれ-オーバーヒート・あくのはどう・ソーラービーム・にほんばれ</td>
+</tr>
+<tr>
+-ベロベルト-ベロベルト-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のんきのおこう-のんきのおこう</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のしかかり・パワーウィップ・じしん・だいばくはつ-のしかかり・パワーウィップ・じしん・だいばくはつ</td>
+</tr>
+<tr>
+-ホエルオー-ホエルオー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハイドロポンプ・ふぶき・はかいこうせん・じわれ-ハイドロポンプ・ふぶき・はかいこうせん・じわれ</td>
+</tr>
+<tr>
+-ボーマンダ-ボーマンダ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;げきりん・かみくだく・じしん・しねんのずつき-げきりん・かみくだく・じしん・しねんのずつき</td>
+</tr>
+<tr>
+-ボスゴドラ-ボスゴドラ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのタスキ-きあいのタスキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;メタルバースト・ストーンエッジ・じしん・シャドークロー-メタルバースト・ストーンエッジ・じしん・シャドークロー</td>
+</tr>
+<tr>
+-ポリゴン2-ポリゴン2-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;トライアタック・シグナルビーム・シャドーボール・れいとうビーム-トライアタック・シグナルビーム・シャドーボール・れいとうビーム</td>
+</tr>
+<tr>
+-ポリゴンZ-ポリゴンZ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;トライアタック・シャドーボール・10まんボルト・じこさいせい-トライアタック・シャドーボール・10まんボルト・じこさいせい</td>
+</tr>
+<tr>
+-マタドガス-マタドガス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめBC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめBC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ヘドロばくだん・かえんほうしゃ・シャドーボール・みちづれ-ヘドロばくだん・かえんほうしゃ・シャドーボール・みちづれ</td>
+</tr>
+<tr>
+-マニューラ-マニューラ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;するどいツメ-するどいツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;つじぎり・れいとうパンチ・つばめがえし・かわらわり-つじぎり・れいとうパンチ・つばめがえし・かわらわり</td>
+</tr>
+<tr>
+-マルマイン-マルマイン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;がんばりやCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">がんばりやCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのタスキ-きあいのタスキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10まんボルト・シグナルビーム・だいばくはつ・ミラーコート-10まんボルト・シグナルビーム・だいばくはつ・ミラーコート</td>
+</tr>
+<tr>
+-マンムー-マンムー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いのちのたま-いのちのたま</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・こおりのキバ・ストーンエッジ・すてみタックル-じしん・こおりのキバ・ストーンエッジ・すてみタックル</td>
+</tr>
+<tr>
+-ミミロップ-ミミロップ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ピヨピヨパンチ・ほのおのパンチ・かみなりパンチ・れいとうパンチ-ピヨピヨパンチ・ほのおのパンチ・かみなりパンチ・れいとうパンチ</td>
+</tr>
+<tr>
+-ミルタンク-ミルタンク-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ギガインパクト・じしん・いわなだれ・しねんのずつき-ギガインパクト・じしん・いわなだれ・しねんのずつき</td>
+</tr>
+<tr>
+-ミロカロス-ミロカロス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・れいとうビーム・りゅうのはどう・じこさいせい-なみのり・れいとうビーム・りゅうのはどう・じこさいせい</td>
+</tr>
+<tr>
+-ムウマージ-ムウマージ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのタスキ-きあいのタスキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シャドーボール・サイコキネシス・10まんボルト・みちづれ-シャドーボール・サイコキネシス・10まんボルト・みちづれ</td>
+</tr>
+<tr>
+-ムクホーク-ムクホーク-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりハチマキ-こだわりハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ブレイブバード・ギガインパクト・インファイト・とんぼがえり-ブレイブバード・ギガインパクト・インファイト・とんぼがえり</td>
+</tr>
+<tr>
+-メガニウム-メガニウム-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のんきのおこう-のんきのおこう</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ハードプラント・げんしのちから・はかいこうせん・ひかりのかべ-ハードプラント・げんしのちから・はかいこうせん・ひかりのかべ</td>
+</tr>
+<tr>
+-メガヤンマ-メガヤンマ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;むしのさざめき・エアスラッシュ・サイコキネシス・シャドーボール-むしのさざめき・エアスラッシュ・サイコキネシス・シャドーボール</td>
+</tr>
+<tr>
+-メタグロス-メタグロス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;コメットパンチ・しねんのずつき・じしん・だいばくはつ-コメットパンチ・しねんのずつき・じしん・だいばくはつ</td>
+</tr>
+<tr>
+-モジャンボ-モジャンボ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のんきのおこう-のんきのおこう</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;パワーウィップ・じしん・つばめがえし・かわらわり-パワーウィップ・じしん・つばめがえし・かわらわり</td>
+</tr>
+<tr>
+-ヤドキング-ヤドキング-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・なみのり・れいとうビーム・かえんほうしゃ-サイコキネシス・なみのり・れいとうビーム・かえんほうしゃ</td>
+</tr>
+<tr>
+-ヤドラン-ヤドラン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいせいHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">れいせいHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・なみのり・れいとうビーム・トリックルーム-サイコキネシス・なみのり・れいとうビーム・トリックルーム</td>
+</tr>
+<tr>
+-ユキノオー-ユキノオー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ゆうかんHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ゆうかんHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かいがらのすず-かいがらのすず</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ウッドハンマー・ゆきなだれ・じしん・いわなだれ-ウッドハンマー・ゆきなだれ・じしん・いわなだれ</td>
+</tr>
+<tr>
+-ユキメノコ-ユキメノコ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のんきのおこう-のんきのおこう</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ふぶき・シャドーボール・サイコキネシス・あられ-ふぶき・シャドーボール・サイコキネシス・あられ</td>
+</tr>
+<tr>
+-ユレイドル-ユレイドル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おだやかHBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おだやかHBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ストーンエッジ・タネばくだん・じしん・ミラーコート-ストーンエッジ・タネばくだん・じしん・ミラーコート</td>
+</tr>
+<tr>
+-ヨノワール-ヨノワール-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シャドーパンチ・じしん・かわらわり・いわなだれ-シャドーパンチ・じしん・かわらわり・いわなだれ</td>
+</tr>
+<tr>
+-ライコウ-ライコウ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10まんボルト・シャドーボール・でんじは・ひかりのかべ-10まんボルト・シャドーボール・でんじは・ひかりのかべ</td>
+</tr>
+<tr>
+-ライコウ-ライコウ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おうじゃのしるし-おうじゃのしるし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かみなりのキバ・かみくだく・アイアンヘッド・おんがえし-かみなりのキバ・かみくだく・アイアンヘッド・おんがえし</td>
+</tr>
+<tr>
+-ライコウ-ライコウ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かみなり・じんつうりき・シグナルビーム・あまごい-かみなり・じんつうりき・シグナルビーム・あまごい</td>
+</tr>
+<tr>
+-ライコウ-ライコウ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シュカのみ-シュカのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10まんボルト・じんつうりき・シャドーボール・めいそう-10まんボルト・じんつうりき・シャドーボール・めいそう</td>
+</tr>
+<tr>
+-ライチュウ-ライチュウ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ボルテッカー・おんがえし・かわらわり・でんじは-ボルテッカー・おんがえし・かわらわり・でんじは</td>
+</tr>
+<tr>
+-ライボルト-ライボルト-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10まんボルト・かえんほうしゃ・シグナルビーム・スピードスター-10まんボルト・かえんほうしゃ・シグナルビーム・スピードスター</td>
+</tr>
+<tr>
+-ラグラージ-ラグラージ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;リンドのみ-リンドのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;じしん・アクアテール・ゆきなだれ・ミラーコート-じしん・アクアテール・ゆきなだれ・ミラーコート</td>
+</tr>
+<tr>
+-ラティアス-ラティアス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おだやかCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おだやかCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・りゅうのはどう・メロメロ・めいそう-サイコキネシス・りゅうのはどう・メロメロ・めいそう</td>
+</tr>
+<tr>
+-ラティアス-ラティアス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ドラゴンクロー・しねんのずつき・じしん・つばめがえし-ドラゴンクロー・しねんのずつき・じしん・つばめがえし</td>
+</tr>
+<tr>
+-ラティアス-ラティアス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・れいとうビーム・エナジーボール・シャドーボール-サイコキネシス・れいとうビーム・エナジーボール・シャドーボール</td>
+</tr>
+<tr>
+-ラティアス-ラティアス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ミストボール・りゅうせいぐん・10まんボルト・なみのり-ミストボール・りゅうせいぐん・10まんボルト・なみのり</td>
+</tr>
+<tr>
+-ラティオス-ラティオス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おだやかCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おだやかCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;きあいのハチマキ-きあいのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・りゅうのはどう・でんじは・めいそう-サイコキネシス・りゅうのはどう・でんじは・めいそう</td>
+</tr>
+<tr>
+-ラティオス-ラティオス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ドラゴンクロー・シャドークロー・じしん・りゅうのまい-ドラゴンクロー・シャドークロー・じしん・りゅうのまい</td>
+</tr>
+<tr>
+-ラティオス-ラティオス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;サイコキネシス・10まんボルト・れいとうビーム・エナジーボール-サイコキネシス・10まんボルト・れいとうビーム・エナジーボール</td>
+</tr>
+<tr>
+-ラティオス-ラティオス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラスターパージ・りゅうせいぐん・はかいこうせん・なみのり-ラスターパージ・りゅうせいぐん・はかいこうせん・なみのり</td>
+</tr>
+<tr>
+-ラプラス-ラプラス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・れいとうビーム・サイコキネシス・10まんボルト-なみのり・れいとうビーム・サイコキネシス・10まんボルト</td>
+</tr>
+<tr>
+-ラフレシア-ラフレシア-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ヘドロばくだん・エナジーボール・はかいこうせん・こうごうせい-ヘドロばくだん・エナジーボール・はかいこうせん・こうごうせい</td>
+</tr>
+<tr>
+-ラムパルド-ラムパルド-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ようきAS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ようきAS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりスカーフ-こだわりスカーフ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;もろはのずつき・じしん・ギガインパクト・ばかぢから-もろはのずつき・じしん・ギガインパクト・ばかぢから</td>
+</tr>
+<tr>
+-ランターン-ランターン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・10まんボルト・れいとうビーム・シグナルビーム-なみのり・10まんボルト・れいとうビーム・シグナルビーム</td>
+</tr>
+<tr>
+-リーフィア-リーフィア-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;リーフブレード・シザークロス・つばめがえし・かみつく-リーフブレード・シザークロス・つばめがえし・かみつく</td>
+</tr>
+<tr>
+-リザードン-リザードン-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おくびょうCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">おくびょうCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ブラストバーン・エアスラッシュ・きあいだま・げんしのちから-ブラストバーン・エアスラッシュ・きあいだま・げんしのちから</td>
+</tr>
+<tr>
+-リングマ-リングマ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おんがえし・クロスチョップ・じしん・つばめがえし-おんがえし・クロスチョップ・じしん・つばめがえし</td>
+</tr>
+<tr>
+-ルージュラ-ルージュラ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;こだわりメガネ-こだわりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいとうビーム・サイコキネシス・きあいだま・シャドーボール-れいとうビーム・サイコキネシス・きあいだま・シャドーボール</td>
+</tr>
+<tr>
+-ルカリオ-ルカリオ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たつじんのおび-たつじんのおび</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;はどうだん・サイコキネシス・シャドーボール・りゅうのはどう-はどうだん・サイコキネシス・シャドーボール・りゅうのはどう</td>
+</tr>
+<tr>
+-ルンパッパ-ルンパッパ-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;なみのり・ギガドレイン・れいとうビーム・あまごい-なみのり・ギガドレイン・れいとうビーム・あまごい</td>
+</tr>
+<tr>
+-レジアイス-レジアイス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいとうビーム・シグナルビーム・チャージビーム・ドわすれ-れいとうビーム・シグナルビーム・チャージビーム・ドわすれ</td>
+</tr>
+<tr>
+-レジアイス-レジアイス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;わんぱくHB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">わんぱくHB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ゆきなだれ・アームハンマー・かげぶんしん・のろい-ゆきなだれ・アームハンマー・かげぶんしん・のろい</td>
+</tr>
+<tr>
+-レジアイス-レジアイス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ずぶといBC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ずぶといBC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;カゴのみ-カゴのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいとうビーム・ラスターカノン・げんしのちから・ねむる-れいとうビーム・ラスターカノン・げんしのちから・ねむる</td>
+</tr>
+<tr>
+-レジアイス-レジアイス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かいがらのすず-かいがらのすず</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;れいとうビーム・10まんボルト・はかいこうせん・きあいだま-れいとうビーム・10まんボルト・はかいこうせん・きあいだま</td>
+</tr>
+<tr>
+-レジギガス-レジギガス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;わんぱくHBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">わんぱくHBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;のんきのおこう-のんきのおこう</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;おんがえし・つばめがえし・でんじは・あやしいひかり-おんがえし・つばめがえし・でんじは・あやしいひかり</td>
+</tr>
+<tr>
+-レジギガス-レジギガス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しんちょうHBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">しんちょうHBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;からげんき・しねんのずつき・かげぶんしん・みがわり-からげんき・しねんのずつき・かげぶんしん・みがわり</td>
+</tr>
+<tr>
+-レジギガス-レジギガス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ものしりメガネ-ものしりメガネ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;だいちのちから・きあいだま・10まんボルト・げんしのちから-だいちのちから・きあいだま・10まんボルト・げんしのちから</td>
+</tr>
+<tr>
+-レジギガス-レジギガス-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかりのこな-ひかりのこな</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;にぎりつぶす・じしん・ストーンエッジ・ドレインパンチ-にぎりつぶす・じしん・ストーンエッジ・ドレインパンチ</td>
+</tr>
+<tr>
+-レジスチル-レジスチル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめHC&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめHC</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラムのみ-ラムのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ラスターカノン・10まんボルト・でんじは・ドわすれ-ラスターカノン・10まんボルト・でんじは・ドわすれ</td>
+</tr>
+<tr>
+-レジスチル-レジスチル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;アイアンヘッド・どくどく・かげぶんしん・てっぺき-アイアンヘッド・どくどく・かげぶんしん・てっぺき</td>
+</tr>
+<tr>
+-レジスチル-レジスチル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;するどいツメ-するどいツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;シャドークロー・つばめがえし・かみなりパンチ・れいとうパンチ-シャドークロー・つばめがえし・かみなりパンチ・れいとうパンチ</td>
+</tr>
+<tr>
+-レジスチル-レジスチル-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHBD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHBD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かいがらのすず-かいがらのすず</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;アイアンヘッド・アームハンマー・じしん・のろい-アイアンヘッド・アームハンマー・じしん・のろい</td>
+</tr>
+<tr>
+-レジロック-レジロック-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;わんぱくAB&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">わんぱくAB</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;たべのこし-たべのこし</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いわなだれ・じしん・かわらわり・すなあらし-いわなだれ・じしん・かわらわり・すなあらし</td>
+</tr>
+<tr>
+-レジロック-レジロック-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;するどいツメ-するどいツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ほのおのパンチ・かみなりパンチ・れいとうパンチ・ドレインパンチ-ほのおのパンチ・かみなりパンチ・れいとうパンチ・ドレインパンチ</td>
+</tr>
+<tr>
+-レジロック-レジロック-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しんちょうHD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">しんちょうHD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;カゴのみ-カゴのみ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ストーンエッジ・アームハンマー・ねむる・のろい-ストーンエッジ・アームハンマー・ねむる・のろい</td>
+</tr>
+<tr>
+-レジロック-レジロック-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しんちょうAD&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">しんちょうAD</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;せんせいのツメ-せんせいのツメ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ストーンエッジ・じしん・アームハンマー・だいばくはつ-ストーンエッジ・じしん・アームハンマー・だいばくはつ</td>
+</tr>
+<tr>
+-レントラー-レントラー-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;いじっぱりHA&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">いじっぱりHA</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ちからのハチマキ-ちからのハチマキ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;かみなりのキバ・こおりのキバ・かみくだく・でんじは-かみなりのキバ・こおりのキバ・かみくだく・でんじは</td>
+</tr>
+<tr>
+-ロズレイド-ロズレイド-
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ひかえめCS&quot;}" data-sheets-formula="=CONCATENATE(R[0]C[5],R[0]C[4])">ひかえめCS</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;しろいハーブ-しろいハーブ</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;リーフストーム・ヘドロばくだん・シャドーボール・ウェザーボール-リーフストーム・ヘドロばくだん・シャドーボール・ウェザーボール</td>
+</tr>
