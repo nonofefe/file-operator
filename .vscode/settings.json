@@ -3,6 +3,16 @@
     "iosfwd": "cpp",
     "ostream": "cpp",
     "string": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "cstdlib": "cpp",
+    "string_view": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "regex": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp"
   }
 }
