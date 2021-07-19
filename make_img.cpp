@@ -46,12 +46,10 @@ int main()
     return EXIT_FAILURE;
   }
 
-  int MAX = 493;
-
   while (getline(input_file, line)){
     vector<string> arr = split(line, ' ');
     ull len = arr.size();
-    rep(i,1000){
+    rep(i,len){
       if(arr[i].substr(0,4) == "alt="){
         cout << arr[i].substr(5,arr[i].size()-6) << endl;
       }

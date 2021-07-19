@@ -61,7 +61,8 @@ int main()
     output_file << "S: " + arr[7] + ",";
     output_file << "sum : " + arr[8] + ",";
     output_file << "type1: \'" + arr[9] + "\',";
-    output_file << "type2: \'" + arr[10] + "\'";
+    output_file << "type2: \'" + arr[10] + "\',";
+    output_file << "img: \'" + arr[11] + "\'";
     output_file << "},\n";
   }
 

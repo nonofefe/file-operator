@@ -32,8 +32,52 @@ vector<string> split(const string &s, char delim) {
     return elems;
 }
 
+map<string,string> get_img(){
+  map<string,string> mp;
+
+  string input_filename("datasets/input/poke_img.txt");
+  vector<string> lines;
+  string line;
+  ifstream input_file(input_filename);
+  string output_filename("datasets/generate/poke_img.txt");
+  ofstream output_file(output_filename);
+  if (!input_file.is_open() || !output_file.is_open()) {
+    cerr << "Could not open the file - '"
+      << "'" << endl;
+      exit(1);
+  }
+
+  vector<pair<string,string>> vec(2000, make_pair("",""));
+  int cnt = 0;
+
+  while (getline(input_file, line)){
+    vector<string> arr = split(line, ' ');
+    ull len = arr.size();
+    rep(i,len){
+      if(arr[i].substr(0,4) == "src="){
+        //cout << arr[i].substr(5,arr[i].size()-6) << endl;
+        vec[cnt].second = arr[i].substr(5,arr[i].size()-6);
+      }
+      if(arr[i].substr(0,4) == "alt="){
+        //cout << arr[i].substr(5,arr[i].size()-6) << endl;
+        vec[cnt].first = arr[i].substr(5,arr[i].size()-6);
+        cnt++;
+      }
+    }
+  }
+  rep(i,cnt){
+    if(i == 0 || vec[i].first != vec[i-1].first){
+      mp[vec[i].first] = vec[i].second;
+    }
+  }
+  input_file.close();
+  output_file.close();
+  return mp;
+}
+
 int main()
 {
+  map<string,string> mp = get_img();
   string filename("datasets/input/poke_general.txt");
   vector<string> lines;
   string line;
@@ -87,29 +131,24 @@ int main()
     for(int i = 0;i < len_arr;i++){
       vec[ind][9+i] = arr[i];
     }
-    cout << endl;
-    for(int i = 0; i < 11;i++){
-      cout << vec[ind][i] << " ";
-    }
-    cout << endl;
+    cout << vec[ind][1] << endl;
+    cout << mp[vec[ind][1]] << endl;
+    vec[ind].push_back(mp[vec[ind][1]]);
+    vec[ind][11] = mp[vec[ind][1]];
+    // for(int i = 0; i < 11;i++){
+    //   cout << vec[ind][i] << " ";
+    // }
+    // cout << endl;
     ind++;
   }
-
-  cout << vec[492][1] << endl;
   sort(all(vec),[](const vector<string>& x, const vector<string>& y) { return stoi(x[0]) < stoi(y[0]);});
+
   // rep(i,MAX){
   //   rep(j,11){
   //     cout << vec[i][j] << " ";
   //   }
   //   cout << endl;
   // }
-
-  rep(i,MAX){
-    rep(j,11){
-      cout << vec[i][j] << " ";
-    }
-    cout << endl;
-  }
 
   input_file.close();
 
@@ -120,7 +159,7 @@ int main()
 
 
   rep(i,MAX) {
-    rep(j,11) {
+    rep(j,12) {
       outputfile << vec[i][j] << " ";
     }
     outputfile<<"\n";
