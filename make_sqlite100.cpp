@@ -34,8 +34,8 @@ vector<string> split(const string &s, char delim) {
 
 int main()
 {
-  string input_filename("datasets/generate/poke_general.txt");
-  string output_filename("datasets/sqlite3/poke_general.txt");
+  string input_filename("datasets/generate/poke_kind100.txt");
+  string output_filename("datasets/sqlite3/poke_kind100.txt");
   vector<string> lines;
   string line;
   ifstream input_file(input_filename);
@@ -48,28 +48,31 @@ int main()
 
   int MAX = 493;
 
+  set<string> legends = {"エンテイ","ライコウ","スイクン","ファイヤー","サンダー","フリーザー","ラティアス","ラティオス","レジロック","レジアイス","レジスチル","レジギガス","クレセリア","ヒードラン"};
+
   while (getline(input_file, line)){
     vector<string> arr = split(line, ' ');
     output_file << "{";
-    output_file << "name: \'" + arr[1] + "\',";
-    output_file << "No: " + arr[0] + ",";
-    output_file << "H: " + arr[2] + ",";
-    output_file << "A: " + arr[3] + ",";
-    output_file << "B: " + arr[4] + ",";
-    output_file << "C: " + arr[5] + ",";
-    output_file << "D: " + arr[6] + ",";
-    output_file << "S: " + arr[7] + ",";
-    output_file << "sum : " + arr[8] + ",";
-    output_file << "type1: \'" + arr[9] + "\',";
-    output_file << "type2: \'" + arr[10] + "\',";
-    output_file << "img: \'" + arr[11] + "\',";
+    output_file << "name: \'" + arr[0] + "\',";
+    if(legends.find(arr[0]) == legends.end()){
+      output_file << "legand: false,";
+    }else{
+      output_file << "legand: true,";
+    }
     output_file << "createdAt: new Date(),";
     output_file << "updatedAt: new Date()";
     output_file << "},\n";
   }
 
+  // rep(i,MAX) {
+  //   rep(j,11) {
+  //     outputfile << vec[i][j] << " ";
+  //   }
+  //   outputfile<<"\n";
+  // }
   input_file.close();
   output_file.close();
 
   return EXIT_SUCCESS;
 }
+
