@@ -16,9 +16,24 @@ const ll mod = 1000000007;
 const int INF = 1e9;
 const ll INFLONG = 1e18;
 
-using std::cout; using std::cerr;
-using std::endl; using std::string;
-using std::ifstream; using std::vector;
+set<string> kind100,kind501,kind502;
+set<string> legends = {"エンテイ","ライコウ","スイクン","ファイヤー","サンダー","フリーザー","ラティアス","ラティオス","レジロック","レジアイス","レジスチル","レジギガス","クレセリア","ヒードラン"};
+
+void inputKind(){
+  string line;
+  ifstream input_poke100("datasets/generate/poke_kind100.txt");
+  ifstream input_poke501("datasets/generate/poke_kind501.txt");
+  ifstream input_poke502("datasets/generate/poke_kind502.txt");
+  while (getline(input_poke100, line)){
+    kind100.insert(line);
+  }
+  while (getline(input_poke501, line)){
+    kind501.insert(line);
+  }
+  while (getline(input_poke502, line)){
+    kind502.insert(line);
+  }
+}
 
 vector<string> split(const string &s, char delim) {
     vector<string> elems;
@@ -46,6 +61,8 @@ int main()
     return EXIT_FAILURE;
   }
 
+  inputKind();
+
   int MAX = 493;
 
   while (getline(input_file, line)){
@@ -63,6 +80,25 @@ int main()
     output_file << "type1: \'" + arr[9] + "\',";
     output_file << "type2: \'" + arr[10] + "\',";
     output_file << "img: \'" + arr[11] + "\',";
+    if(kind100.find(arr[1]) != kind100.end()){
+      output_file << "factory: true,";
+      if(legends.find(arr[1]) != legends.end()){
+        output_file << "round: 7,";
+      }else{
+        output_file << "round: 4,";
+      }
+      output_file << "round: 4,";
+    }else if(kind501.find(arr[1]) != kind501.end()){
+      output_file << "factory: true,";
+      output_file << "round: 1,";
+    }else if(kind502.find(arr[1]) != kind502.end()){
+      output_file << "factory: true,";
+      output_file << "round: 2,";
+    }else{
+      output_file << "factory: false,";
+      output_file << "round: -1,";
+    }
+
     output_file << "createdAt: new Date(),";
     output_file << "updatedAt: new Date()";
     output_file << "},\n";

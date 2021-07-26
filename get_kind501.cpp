@@ -34,19 +34,18 @@ vector<string> split(const string &s, char delim) {
 
 int main()
 {
-  string filename("datasets/input/poke_kind100.txt");
-  vector<string> lines;
-  string line;
-
-  ifstream input_file(filename);
+  string input_filename("datasets/input/poke_kind501.txt");
+  string output_filename("datasets/generate/poke_kind501.txt");
+  ifstream input_file(input_filename);
+  ofstream outputfile(output_filename);
   if (!input_file.is_open()) {
-    cerr << "Could not open the file - '"
-      << filename << "'" << endl;
+    cerr << "Could not open the file - '" << endl;
     return EXIT_FAILURE;
   }
 
+  vector<string> lines;
+  string line;
 
-  int MAX = 250;
   int ind = 0;
   set<string> st;
   while (getline(input_file, line)){
@@ -60,8 +59,6 @@ int main()
   }
 
   input_file.close();
-
-  ofstream outputfile("datasets/generate/poke_kind100.txt");
 
   for(auto itr:st){
     outputfile << itr;
